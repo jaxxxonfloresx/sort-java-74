@@ -1,2 +1,4 @@
-# sort-java-74
+# Sort Java 74
+
 Sorting lists algorithm in Java.
+
